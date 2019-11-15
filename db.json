@@ -1,0 +1,22 @@
+{ 
+"products": [{"id":1,"name":"Eumetopias jubatus","category":"Orange","ip_address":"132.95.85.151"},
+{"id":2,"name":"Crotalus triseriatus","category":"Mauv","ip_address":"175.10.111.191"},
+{"id":3,"name":"Hystrix indica","category":"Aquamarine","ip_address":"178.111.83.116"},
+{"id":4,"name":"Speothos vanaticus","category":"Mauv","ip_address":"184.29.241.112"},
+{"id":5,"name":"Platalea leucordia","category":"Red","ip_address":"99.217.139.10"},
+{"id":6,"name":"Carduelis uropygialis","category":"Teal","ip_address":"90.152.31.123"},
+{"id":7,"name":"Lepus arcticus","category":"Khaki","ip_address":"225.47.16.235"},
+{"id":8,"name":"Catharacta skua","category":"Aquamarine","ip_address":"91.52.113.228"},
+{"id":9,"name":"Nucifraga columbiana","category":"Puce","ip_address":"121.58.37.227"},
+{"id":10,"name":"unavailable","category":"Green","ip_address":"118.121.186.248"},
+{"id":11,"name":"unavailable","category":"Fuscia","ip_address":"108.1.129.129"},
+{"id":12,"name":"Halcyon smyrnesis","category":"Yellow","ip_address":"2.134.121.131"},
+{"id":13,"name":"Balearica pavonina","category":"Mauv","ip_address":"55.250.162.87"},
+{"id":14,"name":"Leptoptilos crumeniferus","category":"Yellow","ip_address":"82.103.250.217"},
+{"id":15,"name":"Aegypius tracheliotus","category":"Purple","ip_address":"29.249.122.39"},
+{"id":16,"name":"Dusicyon thous","category":"Indigo","ip_address":"36.146.133.167"},
+{"id":17,"name":"Ramphastos tucanus","category":"Blue","ip_address":"216.153.125.113"},
+{"id":18,"name":"Eudromia elegans","category":"Aquamarine","ip_address":"226.25.36.224"},
+{"id":19,"name":"Pedetes capensis","category":"Aquamarine","ip_address":"186.172.93.143"},
+{"id":20,"name":"Crotalus adamanteus","category":"Green","ip_address":"67.77.183.249"}]
+}
